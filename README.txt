@@ -2,6 +2,7 @@
 
 preview-standalone.html — автономное превью, все изображения внутри HTML.
 index.html + images/ — шаблон для интеграции в Mindbox.
+mindbox-kuulklever-welcome.zip — архив для загрузки в Mindbox: index.html + папка images/ (33 файла, все используются). HTML ≈ 50 КБ — меньше лимита обрезки Gmail (102 КБ).
 
 Изменения:
 1. Hero-фотография в блоке «Думай, что ешь» — images/hero-products-table.jpg. Постановочное фото, а не документальная съёмка конкретных товаров. На этикетке бутылки читается Primitivo di Manduria Riserva — проверить, что вино есть в ассортименте.
